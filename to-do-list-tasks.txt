@@ -1,0 +1,26 @@
+- install vue and some libraries
+- set up the libraries
+- create a component for the menu
+- create a page for sign up
+- create a page for the dashboard
+- create a page for my account
+- configure the Vuex store
+- set up router guards
+- Install django, django-rest-framework, django-cors-headers, djoser
+- create django project
+- configure the project
+- add djoser to the urls
+- initialize the database
+- create a superuser
+- run the dev server
+- make it possible to sign up from the frontend
+- make it possible to log in from the frontend
+- make it possible to log out from the frontend
+- implement a loading bar
+- create a django app for the leads
+- database model for leads
+- serializer for the leads
+- view for the leads
+- set up the urls
+- create a page for showing the leads
+- make it possible to add leads
